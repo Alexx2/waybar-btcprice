@@ -1,3 +1,5 @@
+Very simple Bitcoin price indicator for waybar
+
 Build the go file with "go build pricefetch.go"
 You must have Go installed in your computer. 
 
